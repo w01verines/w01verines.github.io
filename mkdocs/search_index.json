@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome\n\n\nWelcome to the W01verines Capture The Flag (CTF) organization! We are a global CTF team for all those who are Wolverines at heart, including Alumni, UMich Faculty and Staff, Ann Arbor students (UMich, high school, middle school, grade school), and Ann Arbor professionals.\n\n\nAbout\n\n\nThis website will host our official documentation, which include resources, tools, tutorials, and other information relating to CTF participation. Stay tuned for upcoming changes.\n\n\nStay in the Loop\n\n\nFor bleeding-edge information and news, feel free to check out our \nDiscord channel\n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome",
+            "text": "Welcome to the W01verines Capture The Flag (CTF) organization! We are a global CTF team for all those who are Wolverines at heart, including Alumni, UMich Faculty and Staff, Ann Arbor students (UMich, high school, middle school, grade school), and Ann Arbor professionals.",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#about",
+            "text": "This website will host our official documentation, which include resources, tools, tutorials, and other information relating to CTF participation. Stay tuned for upcoming changes.",
+            "title": "About"
+        },
+        {
+            "location": "/#stay-in-the-loop",
+            "text": "For bleeding-edge information and news, feel free to check out our  Discord channel .",
+            "title": "Stay in the Loop"
+        }
+    ]
+}
